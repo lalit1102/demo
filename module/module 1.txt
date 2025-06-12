@@ -1,0 +1,19 @@
+What is a Program? 
+---- A program is a set of instructions or code that tells a computer how to perform a specific task.
+LAB EXERCISE
+ 1.                       print("Hello, World!")
+                               Hello, World!
+ 2.                  public class Main {
+                  public static void main(String[] args) {
+                    System.out.println("Hello World");
+                     }
+                      }
+                               Hello, World!
+Programs are lines of code written by a human, and subsequently read by computing devices. 
+example; calculater
+Operating Systems: Examples include Linux, Android, iOS, and Windows. 
+
+Application Software: Common applications like Microsoft Word, Excel, and PowerPoint. 
+
+Web Browsers: Examples include Google Chrome and Mozilla Firefox.
+What is Programming? 
